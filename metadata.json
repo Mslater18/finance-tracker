@@ -1,0 +1,6 @@
+{
+  "name": "FinLedger - Expense & Budget Tracker",
+  "description": "Smart, comprehensive expense tracking, budget management, recurring subscriptions, visual category analytics, and financial ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
